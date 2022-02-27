@@ -1,0 +1,2 @@
+thường những bài về mảng: đếm dãy con như này như kia, đếm cặp số có tổng bằng k 
+		=> sử dụng quy hoạch động;

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(6,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(6,13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(7,52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(7,13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(8,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(8,13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(9,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Bai1\Bai1\Source.cpp(9,13): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Bai1.vcxproj -> C:\Users\Admin\Desktop\Bai1\Debug\Bai1.exe

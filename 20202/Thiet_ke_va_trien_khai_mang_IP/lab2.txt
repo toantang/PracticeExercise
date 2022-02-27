@@ -1,0 +1,3 @@
+debug rip events
+debug rip packet
+tail -f /var/log/quagga/ripd.log

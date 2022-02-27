@@ -1,0 +1,4 @@
+red: 1A5
+blue: D55
+orange: E89
+bridged: 3372

@@ -1,0 +1,17 @@
+DP:
+	+ định nghĩa bài toán con
+	+ giải bài toán con nhỏ nhất (trục tiếp)
+	+ Công thức truy hồi: sự phụ thuộc 1 bài toán con với các bài toán con nhỏ hơn
+
+Fibonaxi:
+	F(n) = F(n-1) + F(n-2)
+
+
+Baì toán dãy con cực đại: Cho a1, a2,... Tìm dãy con có tổng lớn nhất
+Bài toán con S(i) là tổng dãy con lớn nhất của dãy mà phần tử cuối cùng là a(i)
+	
+
+
+Bài toán con dãy con cực đại có tổng là chẵn.
+S(0, i) là tổng các phần tử của dãy con chẵn lớn nhất mà phần tử cuối là a(i)
+S(1, i) là tổng các phần tử của dãy con lẻ lớn nhất mà phần tử cuối là a(i)

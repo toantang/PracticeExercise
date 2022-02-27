@@ -1,0 +1,19 @@
+kcấu hình card mạng: cd /etc/sysconfig/network-scripts
+	=> ls => gõ vi ifcfg-eth0 => bật ONBOOT để vào internet
+=> thoar ra khoi cau hinhf onboot gõ :wq
+
+báo cáo phải có ảnh chụp bảng route -n
+cd 
+
+lưu cấu hình máy: cd /etc/sysconfig/network-scripts
+	=> ls => gõ vi ifcfg-eth1 => gõ file như file eth0
+	=> bấm esc => :wq => service network restart
+file eth0: DEVIDE=eth0
+	   TYPE=Ethernet
+	   ONBOOT=none
+	   NM_CONTROLLED=yes
+	   IPADDR=	
+	   NETMASK=
+	   GATEWAY=
+
+2: 
